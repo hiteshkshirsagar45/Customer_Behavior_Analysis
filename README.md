@@ -26,34 +26,33 @@ Established schema for analysis
 SQL Analysis
 Performed business-focused queries such as:
 
-Revenue by gender
-High-value customers using discounts
-Top-rated products
-Subscription vs non-subscription revenue
-Customer segmentation (New, Returning, Loyal)
-Top products by category
+1.Revenue by gender                                                                                                                                   2.High-value customers using discounts
+3.Top-rated products
+4.Subscription vs non-subscription revenue
+5.Customer segmentation (New, Returning, Loyal)
+6.Top products by category
 
 📊 Dashboard (Power BI)
 
 An interactive dashboard was built to visualize key insights:
 Key Features:
-Revenue analysis
-Customer segmentation
-Product performance
-Subscription insights
-Discount impact analysis
+1.Revenue analysis
+2.Customer segmentation
+3.Product performance
+4.Subscription insights
+5.Discount impact analysis
 Dashboard Highlights:
-KPI cards for total revenue & customers
-Bar charts for category/product analysis
-Line charts for trends
-Filters for dynamic exploration
+1.KPI cards for total revenue & customers
+2.Bar charts for category/product analysis
+3.Line charts for trends
+4.Filters for dynamic exploration
 
 📈 Results & Insights
-Identified top-performing products and categories
-Found that subscribed customers contribute higher revenue
-Discovered impact of discounts on purchase behavior
-Segmented customers into actionable groups
-Highlighted high-value customer segments
-Discovered impact of discounts on purchase behavior
+1.Identified top-performing products and categories
+2.Found that subscribed customers contribute higher revenue
+3.Discovered impact of discounts on purchase behavior
+4.Segmented customers into actionable groups
+5.Highlighted high-value customer segments
+6.Discovered impact of discounts on purchase behavior
 Segmented customers into actionable groups
 Highlighted high-value customer segments
